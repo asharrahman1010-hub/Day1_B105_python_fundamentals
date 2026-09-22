@@ -1,0 +1,2 @@
+# Day1_B105_python_fundamentals
+Day1_B105_Python fundamental
